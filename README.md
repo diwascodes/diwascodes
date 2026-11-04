@@ -20,7 +20,6 @@ My coding journey extends beyond this GitHub profile. I previously shared person
 
 - **Current GitHub:** [@diwascodes](https://github.com/diwascodes) — professional portfolio and current projects
 - **Earlier GitHub:** [@Diwas777](https://github.com/Diwas777) — previous coding projects and experiments
-- **Earlier project:** [RabbitMQ Producer–Consumer](https://github.com/Diwas777/ProducerConsumerRabbitMQ) — messaging and producer–consumer patterns
 
 > From early coding experiments to enterprise-grade .NET, cloud, and distributed systems — always learning and building.
 
