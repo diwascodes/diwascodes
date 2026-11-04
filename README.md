@@ -21,7 +21,7 @@ I'm a **Senior .NET Developer and Full Stack Engineer with approximately 9 years
 - **Backend:** C#, ASP.NET Core, .NET 8/10, REST APIs, Entity Framework Core, Dapper
 - **Frontend:** Angular, React, Vue.js, Blazor, TypeScript
 - **Architecture:** Microservices, Clean Architecture, CQRS/MediatR, event-driven systems, gRPC
-- **Cloud & delivery:** Microsoft Azure, AWS, Docker, Kubernetes, Azure DevOps, GitHub Actions
+- **Cloud & delivery:** Microsoft Azure,Docker, Kubernetes, Azure DevOps, GitHub Actions
 - **Security & integration:** Microsoft Entra ID, OAuth 2.0, JWT, RBAC/PBAC, banking and payment APIs
 - **Currently exploring:** Generative AI, LLM-powered applications, and RAG
 
