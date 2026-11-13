@@ -2,7 +2,7 @@
 
 # Hi, I'm Diwas Poudel 👋
 
-### Senior .NET Developer · Full Stack Engineer · Cloud & Distributed Systems
+### Senior .NET Developer · Full Stack Engineer · Cloud & Distributed Systems · AI Integrations
 
 **Building secure, scalable enterprise applications across fintech, government, and ERP.**
 
